@@ -1,0 +1,13 @@
+.heading{
+    text-align: center;
+    background-color: red;
+    color: yellow;
+    font-size: 40px;
+}
+
+#list{
+    background-color: greenyellow;
+}
+.item{
+    background-color: whitesmoke;
+}
