@@ -1,0 +1,25 @@
+body{
+    background-color: cornsilk;
+}
+
+.heading{
+    text-align: center;
+    background-color: orangered;
+    color: yellow;
+    font-size: 36px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h2{
+    color: white;
+    background-color: rosybrown;
+    font-size: 24px;
+}
+
+p, .list{
+    background-color: white;
+}
+
+.source{
+    background-color: aqua;
+}
