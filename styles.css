@@ -6,13 +6,23 @@ body{
     text-align: center;
     background-color: red;
     color: yellow;
-    font-size: 40px;
+    font-size: 50px;
     font-family: Arial, Helvetica, sans-serif;
+    margin: 16px auto;
+    padding: 10px;
 }
 
 #list{
-    background-color: greenyellow;
+    padding: 16px;
+    background-color: orange;
 }
+
 .item{
     background-color: cornsilk;
+    padding: 12px;
+    border: 2px solid brown;
+     margin-top: 8px;
+     font-family: sans-serif;
+     font-size: 16px;
+     font-weight: 600;
 }
